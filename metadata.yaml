@@ -1,10 +1,16 @@
 _repo: The-Family-among-the-Australian-Aborigines-A-Sociological-Study_48865
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48865-h/images/cover.jpg
 creator:
   author:
     agent_name: Malinowski, Bronislaw
     gutenberg_agent_id: '45006'
     url: http://www.gutenberg.org/2009/agents/45006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48865#The-Family-among-the-Australian-Aborigines-A-Sociological-Study
 gutenberg_issued: '2015-05-03'
 gutenberg_type: Text
 identifiers:
